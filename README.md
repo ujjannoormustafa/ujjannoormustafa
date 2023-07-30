@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFhYBxJexKr4g/profile-displaybackgroundimage-shrink_350_1400/0/1679311956408?e=1696464000&v=beta&t=yDJmWhJfvbNlmFlgDSSRCPIzItkkx3lcgv2BnIKVv84)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noor Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
