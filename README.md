@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHA6rkl9bFWDg/profile-displaybackgroundimage-shrink_350_1400/0/1696012015569?e=1703116800&v=beta&t=dWLCbLig_I0VNzVPzVVoLW7tk5rGseO_LyOcCpo-1ww)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHA6rkl9bFWDg/profile-displaybackgroundimage-shrink_350_1400/0/1696012015569?e=1703116800&v=beta&t=dWLCbLig_I0VNzVPzVVoLW7tk5rGseO_LyOcCpo-1ww)
 <h1 align="center">Hi 👋, I'm Noor Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
