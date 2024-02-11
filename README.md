@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHA6rkl9bFWDg/profile-displaybackgroundimage-shrink_350_1400/0/1696012015569?e=1703116800&v=beta&t=dWLCbLig_I0VNzVPzVVoLW7tk5rGseO_LyOcCpo-1ww)
+![MasterHead](https://res.cloudinary.com/dg5feq191/image/upload/v1707648944/Screenshot_2024-02-11_155516_afrqts.png)
 <h1 align="center">Hi 👋, I'm Noor Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
 
 - 📝 Here are my articles on medium [https://medium.com/@ujjannoormustafa123](https://medium.com/@ujjannoormustafa123)
-- 
+  
 - 💬 Connect me on LinkedIn [https://www.linkedin.com/in/noormustafadev007/)
 
 -  Ask me about **Front-end Development**
