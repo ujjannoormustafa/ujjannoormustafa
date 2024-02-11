@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dg5feq191/image/upload/v1707648944/Screenshot_2024-02-11_155516_afrqts.png)
+![MasterHead](https://res.cloudinary.com/dg5feq191/image/upload/v1707649102/Blue_Modern_Elegant_Corporate_Personal_Profile_LinkedIn_Banner_oiib0t.png)
 <h1 align="center">Hi 👋, I'm Noor Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
