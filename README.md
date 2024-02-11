@@ -4,19 +4,18 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoormustafa&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoormustafa" /> </p>
 
-- 🔭 I’m currently working on [BISE Sukkur Board Website](https://bisesuksindh-edu-6tm40gqtk-ujjannoormustafa.vercel.app/)
-
-- 🌱 I’m currently learning **nextjs, nodejs**
 
 - 👨‍💻 All of my projects are available at [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
 
-- 📝 I weekly write articles on medium [https://medium.com/@ujjannoormustafa123](https://medium.com/@ujjannoormustafa123)
+- 📝 Here are my articles on medium [https://medium.com/@ujjannoormustafa123](https://medium.com/@ujjannoormustafa123)
+- 
+- 💬 Connect me on LinkedIn [https://www.linkedin.com/in/noormustafadev007/)
 
-- 💬 Ask me about **react, nextjs**
+-  Ask me about **Front-end Development**
 
 - 📫 How to reach me **ujjannoormustafa123@gmail.com**
 
-- 📄 Know about my experiences [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
+- 👉 Visit My Portfolio Website [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
