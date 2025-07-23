@@ -5,20 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoormustafa&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoormustafa" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://noormustafadev.vercel.app/](https://noormustafadev.vercel.app/)
 
 - 📝 Here are my articles on medium [https://medium.com/@ujjannoormustafa123](https://medium.com/@ujjannoormustafa123)
   
 - 💬 Connect me on LinkedIn [https://www.linkedin.com/in/noormustafadev007/)
 
-
-- 📫 How to reach me **ujjannoormustafa123@gmail.com**
-
-- 👉 Visit My Portfolio Website [https://noormustafa.vercel.app/](https://noormustafa.vercel.app/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
