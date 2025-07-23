@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/dg5feq191/image/upload/v1707649102/Blue_Modern_Elegant_Corporate_Personal_Profile_LinkedIn_Banner_oiib0t.png)
 <h1 align="center">Hi 👋, I'm Noor Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*h-FuIYtxJxoQzDrE_E3QRw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoormustafa&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoormustafa" /> </p>
 
@@ -11,7 +11,6 @@
   
 - 💬 Connect me on LinkedIn [https://www.linkedin.com/in/noormustafadev007/)
 
--  Ask me about **Front-end Development**
 
 - 📫 How to reach me **ujjannoormustafa123@gmail.com**
 
